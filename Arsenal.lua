@@ -54,7 +54,7 @@ SilentAim.TextStrokeTransparency = 0.000
 
 UICorner_2.Parent = SilentAim
 
-MadeBy.Name = "Made By"
+MadeBy.Name = "BenitoDub"
 MadeBy.Parent = SA
 MadeBy.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 MadeBy.BackgroundTransparency = 1.000

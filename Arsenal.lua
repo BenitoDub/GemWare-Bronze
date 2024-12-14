@@ -18,7 +18,7 @@ local UICorner_3 = Instance.new("UICorner")
 ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
-SA.Name = "BenitoDub"
+SA.Name = "SA"
 SA.Parent = ScreenGui
 SA.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
 SA.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -35,7 +35,7 @@ SAText.BorderColor3 = Color3.fromRGB(170, 0, 0)
 SAText.BorderSizePixel = 0
 SAText.Size = UDim2.new(0, 360, 0, 44)
 SAText.Font = Enum.Font.Bangers
-SAText.Text = "Arsenal Noir Made By BenitoDub"
+SAText.Text = "Arsenal SA Made By .bluuu."
 SAText.TextColor3 = Color3.fromRGB(170, 0, 0)
 SAText.TextSize = 35.000
 
@@ -54,7 +54,7 @@ SilentAim.TextStrokeTransparency = 0.000
 
 UICorner_2.Parent = SilentAim
 
-MadeBy.Name = "BenitoDub"
+MadeBy.Name = "Made By"
 MadeBy.Parent = SA
 MadeBy.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 MadeBy.BackgroundTransparency = 1.000
